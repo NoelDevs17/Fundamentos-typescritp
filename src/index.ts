@@ -21,7 +21,7 @@ const reproductor: Reproductor  =  {
 
 }
 
-const { volumen, segundo, cancion} = reproductor;
+const { volumen, segundo, cancion, detalles} = reproductor;
 
 console.log('El volumen actual es de: ',  volumen );
 console.log('El segundo actual es: ', segundo );
